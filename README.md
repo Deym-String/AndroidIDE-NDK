@@ -15,7 +15,7 @@ This bash script will install NDK to [AndroidIDE](https://github.com/itsaky/Andr
 
    - If you choose `r24`, set `ndkVersion` to `"24.0.8215888"`.
    - If you choose `r28b`, set `ndkVersion` to `"28.1.13356709"`.
-   - If you choose `r29-beta1`, set `ndkVersion` to `"29.0.13113456"`.
+   - If you choose `r29-beta2`, set `ndkVersion` to `"29.0.13599879"`.
 
 
 You can find the downloaded ndk version names by running:

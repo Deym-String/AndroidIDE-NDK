@@ -160,8 +160,8 @@ select item in r17c r18b r19c r20b r21e r22b r23b r24 r26b r27b r27c r28b r29-be
 		break
 		;;
 	"r29-beta1")
-		ndk_ver="29.0.13113456"
-		ndk_ver_name="r29-beta1"
+		ndk_ver="29.0.13599879"
+		ndk_ver_name="r29-beta2"
 		is_musl_ndk=true
 		break
 		;;

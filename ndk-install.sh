@@ -147,9 +147,9 @@ select item in r17c r18b r19c r20b r21e r22b r23b r24 r26b r27b r27c r28b r29-be
 		is_lzhiyong_ndk=true
 		break
 		;;
-  	"r27c")
-		ndk_ver="27.2.12479018"
-		ndk_ver_name="r27c"
+  	"r27d")
+		ndk_ver="27.3.13750724"
+		ndk_ver_name="r27d"
 		is_musl_ndk=true
 		break
 		;;
